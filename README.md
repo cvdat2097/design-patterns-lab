@@ -5,3 +5,4 @@
 - Strategy
 - Decorator
 - Factory
+- Observer
