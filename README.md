@@ -3,6 +3,7 @@
 ## Behavioral Patterns
 - Strategy
 - Observer
+- Chain of Responsibility
 
 ## Structural Patterns
 - Decorator

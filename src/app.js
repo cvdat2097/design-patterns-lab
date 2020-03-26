@@ -1,3 +1,3 @@
-const { run } = require('./patterns/observer');
+const { run } = require('./patterns/chain-of-responsibility');
 
 run();
