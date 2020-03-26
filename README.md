@@ -4,3 +4,4 @@
 
 - Strategy
 - Decorator
+- Factory

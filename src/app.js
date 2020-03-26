@@ -1,3 +1,3 @@
-const { run } = require('./patterns/decorator');
+const { run } = require('./patterns/factory');
 
 run();
