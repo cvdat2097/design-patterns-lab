@@ -1,3 +1,3 @@
-const { run } = require('./patterns/singleton');
+const { run } = require('./patterns/flyweight');
 
 run();
