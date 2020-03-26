@@ -1,8 +1,11 @@
 # Design Pattern Examples
 
 ## Behavioral Patterns
-
 - Strategy
-- Decorator
-- Factory
 - Observer
+
+## Structural Patterns
+- Decorator
+
+## Creational Patterns
+- Factory
