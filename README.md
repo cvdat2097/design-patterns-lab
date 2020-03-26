@@ -3,3 +3,4 @@
 ## Behavioral Patterns
 
 - Strategy
+- Decorator
