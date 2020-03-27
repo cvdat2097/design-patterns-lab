@@ -9,6 +9,7 @@
 - Decorator
 - Flyweight
 - Adapter
+- Facade
 
 ## Creational Patterns
 - Factory
