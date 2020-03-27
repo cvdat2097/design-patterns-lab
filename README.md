@@ -4,6 +4,7 @@
 - Strategy
 - Observer
 - Chain of Responsibility
+- Template
 
 ## Structural Patterns
 - Decorator

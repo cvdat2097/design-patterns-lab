@@ -1,3 +1,3 @@
-const { run } = require('./patterns/facade');
+const { run } = require('./patterns/template');
 
 run();
