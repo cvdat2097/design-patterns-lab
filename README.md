@@ -15,3 +15,4 @@
 ## Creational Patterns
 - Factory
 - Singleton
+- Builder

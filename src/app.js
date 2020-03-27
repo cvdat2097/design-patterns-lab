@@ -1,3 +1,3 @@
-const { run } = require('./patterns/template');
+const { run } = require('./patterns/builder');
 
 run();
