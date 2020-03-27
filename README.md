@@ -8,6 +8,7 @@
 ## Structural Patterns
 - Decorator
 - Flyweight
+- Adapter
 
 ## Creational Patterns
 - Factory

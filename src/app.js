@@ -1,3 +1,3 @@
-const { run } = require('./patterns/flyweight');
+const { run } = require('./patterns/adapter');
 
 run();
