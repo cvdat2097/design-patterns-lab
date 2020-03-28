@@ -7,6 +7,7 @@
 - Template
 - Iterator
 - State
+- Command
 
 ## Structural Patterns
 - Decorator

@@ -1,3 +1,3 @@
-const { run } = require('./patterns/proxy');
+const { run } = require('./patterns/command');
 
 run();
