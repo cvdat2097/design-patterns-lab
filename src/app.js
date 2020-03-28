@@ -1,3 +1,3 @@
-const { run } = require('./patterns/command');
+const { run } = require('./patterns/mediator');
 
 run();

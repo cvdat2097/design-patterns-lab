@@ -8,6 +8,7 @@
 - Iterator
 - State
 - Command
+- Mediator
 
 ## Structural Patterns
 - Decorator
