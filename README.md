@@ -6,6 +6,7 @@
 - Chain of Responsibility
 - Template
 - Iterator
+- State
 
 ## Structural Patterns
 - Decorator
