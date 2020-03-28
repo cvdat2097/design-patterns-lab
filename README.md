@@ -14,6 +14,7 @@
 - Adapter
 - Facade
 - Composite
+- Proxy
 
 ## Creational Patterns
 - Factory
