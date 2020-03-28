@@ -5,6 +5,7 @@
 - Observer
 - Chain of Responsibility
 - Template
+- Iterator
 
 ## Structural Patterns
 - Decorator
