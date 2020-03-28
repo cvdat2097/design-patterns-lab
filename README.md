@@ -12,6 +12,7 @@
 - Flyweight
 - Adapter
 - Facade
+- Composite
 
 ## Creational Patterns
 - Factory
